@@ -1,0 +1,2 @@
+# AI-Scalper-
+Trading bot
